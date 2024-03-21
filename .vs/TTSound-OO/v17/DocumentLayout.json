@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gessi\\source\\repos\\TTSound-OO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86EADAE9-517C-4790-B1F6-58641DB11756}|TTSound-OO\\TTSound-OO.csproj|c:\\users\\gessi\\source\\repos\\ttsound-oo\\ttsound-oo\\podcast1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EADAE9-517C-4790-B1F6-58641DB11756}|TTSound-OO\\TTSound-OO.csproj|solutionrelative:ttsound-oo\\podcast1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EADAE9-517C-4790-B1F6-58641DB11756}|TTSound-OO\\TTSound-OO.csproj|c:\\users\\gessi\\source\\repos\\ttsound-oo\\ttsound-oo\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EADAE9-517C-4790-B1F6-58641DB11756}|TTSound-OO\\TTSound-OO.csproj|solutionrelative:ttsound-oo\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EADAE9-517C-4790-B1F6-58641DB11756}|TTSound-OO\\TTSound-OO.csproj|c:\\users\\gessi\\source\\repos\\ttsound-oo\\ttsound-oo\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EADAE9-517C-4790-B1F6-58641DB11756}|TTSound-OO\\TTSound-OO.csproj|solutionrelative:ttsound-oo\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podcast1.cs",
+              "DocumentMoniker": "C:\\Users\\gessi\\source\\repos\\TTSound-OO\\TTSound-OO\\Podcast1.cs",
+              "RelativeDocumentMoniker": "TTSound-OO\\Podcast1.cs",
+              "ToolTip": "C:\\Users\\gessi\\source\\repos\\TTSound-OO\\TTSound-OO\\Podcast1.cs",
+              "RelativeToolTip": "TTSound-OO\\Podcast1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:05:27.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\gessi\\source\\repos\\TTSound-OO\\TTSound-OO\\main.cs",
+              "RelativeDocumentMoniker": "TTSound-OO\\main.cs",
+              "ToolTip": "C:\\Users\\gessi\\source\\repos\\TTSound-OO\\TTSound-OO\\main.cs",
+              "RelativeToolTip": "TTSound-OO\\main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:58:10.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\Users\\gessi\\source\\repos\\TTSound-OO\\TTSound-OO\\Episode.cs",
+              "RelativeDocumentMoniker": "TTSound-OO\\Episode.cs",
+              "ToolTip": "C:\\Users\\gessi\\source\\repos\\TTSound-OO\\TTSound-OO\\Episode.cs",
+              "RelativeToolTip": "TTSound-OO\\Episode.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:51:46.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

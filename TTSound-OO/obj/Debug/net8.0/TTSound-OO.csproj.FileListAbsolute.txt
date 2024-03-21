@@ -1,0 +1,14 @@
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\bin\Debug\net8.0\TTSound-OO.exe
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\bin\Debug\net8.0\TTSound-OO.deps.json
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\bin\Debug\net8.0\TTSound-OO.runtimeconfig.json
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\bin\Debug\net8.0\TTSound-OO.dll
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\bin\Debug\net8.0\TTSound-OO.pdb
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\TTSound-OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\TTSound-OO.AssemblyInfoInputs.cache
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\TTSound-OO.AssemblyInfo.cs
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\TTSound-OO.csproj.CoreCompileInputs.cache
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\TTSound-OO.dll
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\refint\TTSound-OO.dll
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\TTSound-OO.pdb
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\TTSound-OO.genruntimeconfig.cache
+C:\Users\gessi\source\repos\TTSound-OO\TTSound-OO\obj\Debug\net8.0\ref\TTSound-OO.dll
